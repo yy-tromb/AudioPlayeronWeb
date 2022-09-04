@@ -4,4 +4,4 @@
 
 An Audio Player
 
-## Follow Apache License 2.0 . And notice original(this) is very bad lol.  
+## Follow Apache License 2.0 . I don't think anyone will use it lol  
