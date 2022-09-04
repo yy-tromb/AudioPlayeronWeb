@@ -4,4 +4,4 @@
 
 An Audio Player
 
-## Follow MIT License . And notice original(this) is 
+## Follow MIT License . And notice original(this) is very bad lol.  
