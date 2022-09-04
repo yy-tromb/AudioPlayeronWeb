@@ -4,4 +4,4 @@
 
 An Audio Player
 
-## Follow MIT License . And notice original(this) is very bad lol.  
+## Follow Apache License 2.0 . And notice original(this) is very bad lol.  
